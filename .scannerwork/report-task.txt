@@ -1,0 +1,5 @@
+projectKey=machineinfo_alm2019
+serverUrl=http://172.27.12.78
+dashboardUrl=http://172.27.12.78/dashboard/index/machineinfo_alm2019
+ceTaskId=AWrAfF0g3ODAKcxADoqm
+ceTaskUrl=http://172.27.12.78/api/ce/task?id=AWrAfF0g3ODAKcxADoqm
